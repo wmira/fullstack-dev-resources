@@ -1,6 +1,4 @@
-# frontend-dev-resources
-Frontend Dev Resources
-
+# Frontend Dev Resources
 
 # CSS
 
