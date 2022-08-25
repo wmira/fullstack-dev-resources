@@ -1,5 +1,4 @@
-# Frontend Dev Resources
-
+Single Dev Resources
 # CSS
 
 - [TailwindCSS](https://tailwindcss.com/) - Barebone css utility
