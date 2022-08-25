@@ -9,9 +9,10 @@ Frontend Dev Resources
 
 # React UI Components
 
-[Headless UI](https://headlessui.com/) - Basic/Accessible UI Components
-
--[RadixUI](https://www.radix-ui.com/)
+- [Headless UI](https://headlessui.com/) - Basic/Accessible UI Components
+- [RadixUI](https://www.radix-ui.com/)
+- [React Aria](https://react-spectrum.adobe.com/react-aria/)
 
 # CSS in JS
-[Stitches](https://stitches.dev/)
+- [Stitches](https://stitches.dev/)
+
