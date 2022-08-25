@@ -15,3 +15,5 @@
 # CSS in JS
 - [Stitches](https://stitches.dev/)
 
+# Fonts
+- [FontSource](https://fontsource.org) Easily use Google Fonts
