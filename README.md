@@ -10,6 +10,7 @@
 - [Headless UI](https://headlessui.com/) - Basic/Accessible UI Components
 - [RadixUI](https://www.radix-ui.com/)
 - [React Aria](https://react-spectrum.adobe.com/react-aria/)
+- [TanStack Table](https://tanstack.com/table/v8)
 
 # CSS in JS
 - [Stitches](https://stitches.dev/)
