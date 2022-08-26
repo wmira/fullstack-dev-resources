@@ -16,3 +16,6 @@ Single Dev Resources
 
 # Fonts
 - [FontSource](https://fontsource.org) Easily use Google Fonts
+
+# Animation
+- [Auto Animate](https://github.com/formkit/auto-animate) - Dead simple animations
