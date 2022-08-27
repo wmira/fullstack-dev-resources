@@ -1,4 +1,4 @@
-Single Dev Resources
+Fullstack Dev Resources
 # CSS
 
 - [TailwindCSS](https://tailwindcss.com/) - Barebone css utility
