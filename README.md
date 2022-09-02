@@ -19,3 +19,6 @@ Fullstack Dev Resources
 
 # Animation
 - [Auto Animate](https://github.com/formkit/auto-animate) - Dead simple animations
+
+# Tools/Libs
+- [PartyTown](https://partytown.builder.io/) 
